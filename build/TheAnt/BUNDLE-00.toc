@@ -1,0 +1,3 @@
+([('TheAnt',
+   '/Users/melja/Desktop/Projet_GL_Python/dist/TheAnt',
+   'EXECUTABLE')],)
